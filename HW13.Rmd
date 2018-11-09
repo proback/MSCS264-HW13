@@ -1,6 +1,6 @@
 ---
 title: 'MSCS 264: Homework #13'
-subtitle: 'Due Tues Nov 20 at 11:58 PM'
+subtitle: 'Due Tues Nov 20 at 11:57 PM'
 output:
   pdf_document:
     fig_height: 3
