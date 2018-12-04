@@ -2,10 +2,10 @@
 title: 'MSCS 264: Homework #13'
 subtitle: 'Due Tues Nov 20 at 11:57 PM'
 output:
+  html_document: default
   pdf_document:
     fig_height: 3
     fig_width: 4.5
-  html_document: default
   word_document: default
 editor_options: 
   chunk_output_type: console
